@@ -3,6 +3,7 @@ Auto Vectorization Test by XOR two regions (4GB)
 
 ##Environment:
 > GCC version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+
 > CPU: Intel i7-4700K
 
 ##Result:
